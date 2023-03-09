@@ -8,3 +8,6 @@ while True:
     x += 1
     print(x)
     time.sleep(1)
+
+    this = 1
+    print(this)
